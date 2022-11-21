@@ -5,39 +5,39 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://paradorsur.50webs.com/contacto.html</loc>
+  <loc>https://paradorsur.ar/contacto.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/contacto_error.html</loc>
+  <loc>https://paradorsur.ar/contacto_error.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/contacto_ok.html</loc>
+  <loc>https://paradorsur.ar/contacto_ok.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/contacto_old.html</loc>
+  <loc>https://paradorsur.ar/contacto_old.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/distancias.html</loc>
+  <loc>https://paradorsur.ar/distancias.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/fotos.html</loc>
+  <loc>https://paradorsur.ar/fotos.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/index.html</loc>
+  <loc>https://paradorsur.ar/index.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/mapas.html</loc>
+  <loc>https://paradorsur.ar/mapas.html</loc>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://paradorsur.50webs.com/promociones.html</loc>
+  <loc>https://paradorsur.ar/promociones.html</loc>
   <priority>0.5000</priority>
  </url>
 </urlset>
