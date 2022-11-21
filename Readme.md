@@ -6,4 +6,13 @@
 
 git subtree push --prefix paradorsur  origin gh-pages
 
+# Validate 
 
+cd /d/sw/BIND9
+
+./dig   paradorsur.com.ar   +noall +answer -t A
+
+
+# Web Site
+
+    https://pabloezequiel.github.io/www.paradorsur.com.ar/
