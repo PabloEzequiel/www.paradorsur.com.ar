@@ -18,3 +18,10 @@ cd /d/sw/BIND9
 # Web Site
 
     https://pabloezequiel.github.io/www.paradorsur.com.ar/
+
+
+# SSH Config purebas
+
+.git/config
+
+url = git@github-PabloEzequiel:PabloEzequiel/www.paradorsur.com.ar.git
