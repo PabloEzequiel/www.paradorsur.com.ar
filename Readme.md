@@ -18,3 +18,7 @@ cd /d/sw/BIND9
 # Web Site
 
     https://pabloezequiel.github.io/www.paradorsur.com.ar/
+
+
+# SSH Config purebas
+
