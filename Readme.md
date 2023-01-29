@@ -22,3 +22,6 @@ cd /d/sw/BIND9
 
 # SSH Config purebas
 
+.git/config
+
+url = git@github-PabloEzequiel:PabloEzequiel/www.paradorsur.com.ar.git
